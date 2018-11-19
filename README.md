@@ -1,5 +1,5 @@
 # Java-Learning
-## A resource library created to learn Java for myself and others learners.Include some preliminary projects
+## A resource library created to learn Java for myself and others learners. Include some preliminary projects
 *为了自己和别人学习Java创建的资源库，包含一些相对初级的小项目*<br>
 
 
