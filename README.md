@@ -8,7 +8,13 @@
 >*一个简单的桌球碰撞项目，桌球最后不会停止。仅仅是引起兴趣所作。<br>
 
 ### ArrayList
+>A hand-write Java ArrayList, do not have all function as same as the JDK do.<br>
+>一个手写的Java ArraryList，但不包括JDK中相同的所有功能。<br>
 
 ### LinkList
+>A hand-write Java LinkList, do not have all function as same as the JDK do.<br>
+>一个手写的Java LinkList，但不包括JDK中相同的所有功能。<br>
 
 ### Fighter
+>A game, you need to elude from little balls, time is the score.<br>
+>一个小游戏，你需要躲避小球， 计时记分。<br>
